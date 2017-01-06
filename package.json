@@ -1,0 +1,33 @@
+{
+  "name": "vm-loader",
+  "version": "0.0.1",
+  "description": "velocity template engine,用于解析java的.vm文件，与webpack结合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kingvid-chan/vm-loader.git"
+  },
+  "keywords": [
+    "JSHOP",
+    "DEV",
+    "VM",
+    "velocity",
+    "java",
+    "webpack",
+    "loader",
+    "vm-loader"
+  ],
+  "author": "Kingvid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingvid-chan/vm-loader/issues"
+  },
+  "homepage": "https://github.com/kingvid-chan/vm-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "velocityjs": "^0.9.3"
+  }
+}
