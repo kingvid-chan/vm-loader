@@ -1,6 +1,6 @@
 {
   "name": "vm-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exports .vm file as HTML String, also supports Separation between Data and Code.",
   "main": "index.js",
   "scripts": {

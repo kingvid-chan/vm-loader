@@ -74,7 +74,6 @@ modulesArr.forEach((module) => {
 //webpack dev server
 const compiler = webpack(webpack_config);
 new webpackDevServer(compiler, {
-  hot:true,
   stats: {
     colors: true,
     chunks: false
