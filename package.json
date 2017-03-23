@@ -1,7 +1,7 @@
 {
   "name": "vm-loader",
-  "version": "0.0.1",
-  "description": "velocity template engine,用于解析java的.vm文件，与webpack结合",
+  "version": "1.0.0",
+  "description": "Exports .vm file as HTML String, also supports Separation between Data and Code.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
